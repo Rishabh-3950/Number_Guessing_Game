@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+    
+}
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+h1{
+    font-size: 40px;
+    border-bottom: 2px solid black;
+}
+p{
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+#subt{
+    margin: 10px;
+}
